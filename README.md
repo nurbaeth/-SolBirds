@@ -1,4 +1,4 @@
-🐦 SolBirds         
+🐦 SolBirds           
 A simple on-chain Angry Birds-style game written in Solidity.     
         
 🎯 Description    
